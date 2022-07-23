@@ -1,1 +1,1 @@
-# Game-of-Life--Matlab
+# Conways-Game-of-Life--Matlab
